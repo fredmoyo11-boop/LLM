@@ -1,0 +1,5 @@
+Questions regarding the project: 
+
+    - Is the mode in the method send_text_for_assistance() refering to the mode of rephrasing the text ? 
+
+    - 
